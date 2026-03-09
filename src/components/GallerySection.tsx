@@ -16,20 +16,20 @@ import foto13 from "../assets/13.jpeg";
 import foto14 from "../assets/14.jpeg";
 
 const photos = [
-  { id: 1, src: foto1, caption: "Juntos sempre" },
-  { id: 2, src: foto2, caption: "Juntos sempre" },
-  { id: 3, src: foto3, caption: "Juntos sempre" },
-  { id: 4, src: foto4, caption: "Juntos sempre" },
-  { id: 5, src: foto5, caption: "Juntos sempre" },
-  { id: 6, src: foto6, caption: "Juntos sempre" },
-  { id: 7, src: foto7, caption: "Juntos sempre" },
-  { id: 8, src: foto8, caption: "Juntos sempre" },
-  { id: 9, src: foto9, caption: "Juntos sempre" },
-  { id: 10, src: foto10, caption: "Juntos sempre" },
-  { id: 11, src: foto11, caption: "Juntos sempre" },
-  { id: 12, src: foto12, caption: "Juntos sempre" },
-  { id: 13, src: foto13, caption: "Juntos sempre" },
-  { id: 14, src: foto14, caption: "Juntos sempre" },
+  { id: 1, src: foto1, caption: "Nós e o ponto o ponto e nós" },
+  { id: 2, src: foto2, caption: "As zuadas são a marca registrada" },
+  { id: 3, src: foto3, caption: "Azul+rosa" },
+  { id: 4, src: foto4, caption: "Primeiro storys não pode ser esquecido" },
+  { id: 5, src: foto5, caption: "Nosso Parque da água branca" },
+  { id: 6, src: foto6, caption: "Com a rainha" },
+  { id: 7, src: foto7, caption: "Dias nossos pré aula" },
+  { id: 8, src: foto8, caption: "Biblioteca já pode ser o nosso lugar?" },
+  { id: 9, src: foto9, caption: "Bico+lingua" },
+  { id: 10, src: foto10, caption: "Viver o carnaval com voce foi o auge" },
+  { id: 11, src: foto11, caption: "Carnavrou em casal" },
+  { id: 12, src: foto12, caption: "Meu maior bem eo meu sonho" },
+  { id: 13, src: foto13, caption: "Juntinhos" },
+  { id: 14, src: foto14, caption: "Me conhece tão bem" },
 ];
 
 const GallerySection = () => {
