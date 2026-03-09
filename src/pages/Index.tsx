@@ -6,6 +6,7 @@ import MusicSection from "../components/MusicSection";
 import CounterSection from "../components/CounterSection";
 import MessageSection from "../components/MessageSection";
 import Footer from "../components/Footer";
+import ButtonContrato from "../components/buttonContrato";
 
 const Index = () => {
   return (
@@ -16,8 +17,10 @@ const Index = () => {
       <GallerySection />
       <MusicSection />
       <CounterSection />
+<ButtonContrato />
       <MessageSection />
       <Footer />
+
     </main>
   );
 };
