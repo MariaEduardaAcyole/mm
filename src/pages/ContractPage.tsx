@@ -27,7 +27,17 @@ const contractSections = [
       "Manter palavras de afirmação e carinho no dia a dia.",
       "Valorizar e respeitar a família um do outro.",
       "Evitar deixar o relacionamento cair na rotina.",
-      "Sempre lembrar do motivo de estarmos juntos."
+      "Sempre lembrar do motivo de estarmos juntos.",
+      "Ser financeiramente responsaveis",
+      "Ensinar para a parte oque gosta e não gosta"
+    ]
+  },
+  {
+     title: "Capítulo ⚠️ — atenção",
+    clauses: [
+      "Não voltar a repetir erros já discutidos",
+      "Nunca mais greve de silencio",
+      "Ainda sim respeitar o tempo do outro"
     ]
   },
   {
