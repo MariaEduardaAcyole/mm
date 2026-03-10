@@ -17,7 +17,7 @@ const Index = () => {
       <GallerySection />
       <MusicSection />
       <CounterSection />
-<ButtonContrato />
+      <ButtonContrato />
       <MessageSection />
       <Footer />
 
