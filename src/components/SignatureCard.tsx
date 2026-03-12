@@ -25,6 +25,7 @@ export default function SignatureCard({ name, date }: Props) {
 
         <p className="text-sm text-gray-500">
           Este contrato foi aceito digitalmente.
+          Parabéns pela ótima escolha!
         </p>
 
       </div>

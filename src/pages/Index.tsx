@@ -7,6 +7,7 @@ import CounterSection from "../components/CounterSection";
 import MessageSection from "../components/MessageSection";
 import Footer from "../components/Footer";
 import ButtonContrato from "../components/buttonContrato";
+import WordCloudSection from "../components/WordCloudSection";
 
 const Index = () => {
   return (
@@ -19,6 +20,7 @@ const Index = () => {
       <CounterSection />
       <ButtonContrato />
       <MessageSection />
+      <WordCloudSection/>
       <Footer />
 
     </main>

@@ -215,8 +215,7 @@ export default function ContractPage() {
 
         {/* botões */}
 
-        <div className="mt-12 flex justify-center gap-6 relative">
-
+<div className="mt-12 flex flex-col items-center gap-6 relative">
           <button
             onClick={handleAccept}
             disabled={!allAccepted}
@@ -239,12 +238,12 @@ export default function ContractPage() {
                 : "none"
             }}
             className="
-            px-8 py-3
-            rounded-xl
-            bg-gray-200
-            hover:bg-gray-300
-            transition
-            absolute
+    px-8 py-3
+rounded-xl
+bg-gray-200
+hover:bg-gray-300
+transition
+relative
             "
           >
             Não concordo
@@ -256,7 +255,7 @@ export default function ContractPage() {
 
         {signed && (
           <SignatureCard
-            name="Nosso amor"
+            name="Parceiro"
             date={today}
           />
         )}

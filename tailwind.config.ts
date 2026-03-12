@@ -99,7 +99,10 @@ export default {
         "float-heart": "float-heart 4s ease-in-out infinite",
         "fade-up": "fade-up 0.8s ease-out forwards",
       },
+      
     },
+    
   },
+  
   plugins: [require("tailwindcss-animate")],
 } satisfies Config;

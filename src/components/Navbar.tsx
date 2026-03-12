@@ -8,6 +8,8 @@ const navLinks = [
   { href: "#musicas", label: "Músicas" },
   { href: "#contador", label: "Contador" },
   { href: "#mensagem", label: "Mensagem" },
+  { href: "#contrato", label: "Contrato" },
+
 ];
 
 const Navbar = () => {
