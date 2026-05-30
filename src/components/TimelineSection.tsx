@@ -25,7 +25,12 @@ const timelineEvents = [
       {
     date: "06 de Dezembro de 2025",
     title: "Seu aniversário ",
-    description: "Participar da sua familia e ganhar o primeiro pedaço com certeza foi o auge2",
+    description: "Participar da sua familia e ganhar o primeiro pedaço com certeza foi o auge ",
+  },
+   {
+    date: "13 de Março de 2026",
+    title: "Nosso pedido 💍",
+    description: "Voce sempre faz de tudo para me agradar e o pedido foi o grande ápice. Finalmente oficialmente namorados",
   },
       {
     date: "Todos",
