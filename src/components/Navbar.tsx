@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Heart, Menu, X } from "lucide-react";
 
 const navLinks = [
-  { href: "#inicio", label: "Início" },
+  { href: "/", label: "Início" },
   { href: "#historia", label: "História" },
   { href: "#galeria", label: "Galeria" },
   { href: "#musicas", label: "Músicas" },
