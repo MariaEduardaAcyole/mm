@@ -12,10 +12,10 @@ const songs = [
     artist: "Artista",
     lyrics: "E foi assim\nQuando eu te vi a primeira vez \n Você duvidava da minha cara, me chamava de canalha\n Mas hoje o tempo passou e olha só o que a gente fez \n E quando eu vi \n Num piscar de olhos, me entreguei \n Agora não penso mais em nada além de te ter em casa\n Virou minha namorada que me chama de meu bem",
   },
-  {
-    title: "O vagabundo e a dama",
-    artist: "oriente",
-    lyrics: "Ele se apresentou, ela sorriu \n Ele chegou juntinho no ouvido, ela caiu (ela caiu)\n Ele ratinho de desenrolo, ela, beleza indescritível\n E começa a história de um amor impossível\n"
+    {
+    title: "Chuva de arroz",
+    artist: "Luan Santana",
+    lyrics: " Me apaixonei, perdidamente \n E o que eu sei, é que daqui pra frente \n Vai ser nossa cidade, nosso telefone \n Nosso endereço, nosso apartamento  \n Sabe aquela igreja?  \n Tô aqui na frente, imaginando chuva de arroz na gente!  \n"
   },
 ];
 
